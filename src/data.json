@@ -1,0 +1,22 @@
+[
+  {
+    "id": "xy213",
+    "name": "Setup E-commerce project",
+    "complete": true
+  },
+  {
+    "id": "b89x1",
+    "name": "Fixing redirect page",
+    "complete": false
+  },
+  {
+    "id": "a8i23",
+    "name": "Update the timeline project",
+    "complete": false
+  },
+  {
+    "id": "ui123",
+    "name": "Review the UI design",
+    "complete": false
+  }
+]
